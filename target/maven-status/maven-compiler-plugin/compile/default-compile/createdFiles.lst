@@ -1,0 +1,6 @@
+com\benicio\compiler\Compiler.class
+com\benicio\vm\VirtualMachine.class
+com\benicio\vm\Instruction.class
+com\benicio\vm\Main.class
+com\benicio\vm\OpCode.class
+com\benicio\vm\VirtualMachine$1.class
