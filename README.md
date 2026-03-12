@@ -9,7 +9,7 @@ Unlike standard projects that rely on frameworks, this project explores the low-
 ##  Architecture
 The system follows a classic **Fetch-Decode-Execute** cycle, simulating a real CPU's behavior in software.
 
-```mermaid
+
 graph LR
     A[Source Code] -->|Lexer & Parser| B(Bytecode Instructions)
     B -->|Load| C{Virtual Machine}
